@@ -13,13 +13,13 @@ ul {
 }
 
 li {
-  float: right;
+  float: left;
 }
 
 li a {
   display: block;
   padding: 8px;
-  backround-color: #dddddd;
+  backround-color: black;
 }
 
 
