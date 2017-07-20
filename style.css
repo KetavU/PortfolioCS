@@ -5,13 +5,13 @@ font-size: 60px;
 font-family: times new roman ;
 }
 
-ul{
+ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
 }
 
-li{
+li {
   display: inline;
 }
 
