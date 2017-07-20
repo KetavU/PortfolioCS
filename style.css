@@ -1,8 +1,14 @@
 h1{
-color: deepskyblue;
+color: black;
 text-align: center;
 font-size: 60px;
 font-family: times new roman ;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
 }
 
 
