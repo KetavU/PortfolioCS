@@ -12,6 +12,10 @@ ul {
   overflow: hidden;
 }
 
+li {
+  float: right;
+}
+
 li a {
   display: block;
   padding: 8px;
