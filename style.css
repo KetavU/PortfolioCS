@@ -7,13 +7,12 @@ font-family: times new roman ;
 
 ul {
   list-style-type: none;
-  backround-color: black;
   margin: 0;
   padding: 0;
-  overflow: hidden;
 }
 
 li {
+  display: inline;
   float: left;
 }
 
