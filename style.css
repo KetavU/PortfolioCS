@@ -21,14 +21,20 @@ li {
 }
 
 li a {
+  display: block;
   padding: 15px;
   color: white;
   text-align: center;
   text-decoration: none;
 }
 
-li a:
-  
+li a:hover:not(.active) {
+  background-color: rgb(17,17,17); 
+}
+
+.active {
+  background-color: rgb(76,175,80)
+}
   
 
   
