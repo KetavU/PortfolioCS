@@ -29,8 +29,20 @@ li a {
 }
 
 body {
-  background-color: rgb(255,255,0);
+  background-color: rgb(255,140,0);
 }
+
+h3 {
+  text-align: center;
+}
+
+img {
+  float: center;
+  border-style: solid;
+  border-color: rgb(255,69,0);
+}
+  
+  
 
   
 
